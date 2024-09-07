@@ -42,7 +42,7 @@ elseif($child){
     echo "Ticket is 2 EUR";
 }
 else{
-    echo "Ticket is 5 EUR";
+    echo "Ticket is 7 EUR";
 }
 /*
     $temp = 15;
