@@ -39,7 +39,7 @@ if(($child && $senior) || (!$child && !$senior)){
     echo "Ticket price is 15 EUR"; 
 }
 elseif($child){
-    echo "Ticket is FREE";
+    echo "Ticket is 2 EUR";
 }
 else{
     echo "Ticket is 5 EUR";
